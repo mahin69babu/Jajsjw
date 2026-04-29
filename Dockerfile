@@ -1,1 +1,1 @@
-FROM mojaalagevai/xwzmlwzml
+FROM mojaalagevai/xwzml
